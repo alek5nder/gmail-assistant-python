@@ -5,7 +5,6 @@
 Managing a large volume of emails in Gmail can quickly become overwhelming. Promotional messages, notifications, offers, spam, and invoices all mix together, making it difficult to respond efficiently. Manually sorting and labeling emails is tedious, error-prone, and time-consuming. Many users underutilize Gmail’s powerful labeling system simply due to the lack of an effective, intelligent tool for automatic email categorization based on actual content.
 
 
-
 <details>
 <summary>🚀 Application</summary>
 
@@ -19,12 +18,12 @@ Managing a large volume of emails in Gmail can quickly become overwhelming. Prom
 <details>
 <summary>⭐ Key Features</summary>
 
-- 🏷️ **Automatic email classification** into predefined categories (e.g., Invoice, Spam, Offers)  
-- ✍️ **Interactive mode** allowing you to confirm or correct AI suggestions, storing feedback for future improvement  
-- ⚡ **Automatic mode** for fast batch processing without manual intervention  
-- 📊 **Built-in statistics** with bar charts showing category distributions during each session  
-- 🔄 **Feedback loop system** enabling the assistant to learn from user corrections (excellent portfolio showcase)  
-- 🧩 Clean, modular design facilitating future extensions and integration with other services
+-  **Automatic email classification** into predefined categories (e.g., Invoice, Spam, Offers)  
+-  **Interactive mode** allowing you to confirm or correct AI suggestions, storing feedback for future improvement  
+-  **Automatic mode** for fast batch processing without manual intervention  
+-  **Built-in statistics** with bar charts showing category distributions during each session  
+-  **Feedback loop system** enabling the assistant to learn from user corrections (excellent portfolio showcase)  
+-  Clean, modular design facilitating future extensions and integration with other services
 
 </details>
 
@@ -80,6 +79,15 @@ This displays a bar chart of how many emails were assigned to each category duri
 </details>
 
 <details>
+   <details>
+   <summary>🧩 Final Effects:</summary>
+   I encourage you to discover more about my assistant by reading other sections or even running it by yourself! Instructon is also given above.
+   <img width="1166" height="134" alt="image" src="https://github.com/user-attachments/assets/feac88e0-8d46-46c4-90b0-4462059a4015" />
+   <img width="1619" height="660" alt="image" src="https://github.com/user-attachments/assets/b8c0dd2e-2c81-4923-927e-81f529c619af" />
+
+   <img width="922" height="555" alt="image" src="https://github.com/user-attachments/assets/396c9bf6-4b60-4df0-8169-1893efcc1563" />
+
+</details>
 <summary>🔐 Security & Good Practices</summary>
 
 - Your `credentials.json`, OAuth `token.json`, `feedback.csv`, and `.env` files **must never** be publicly shared or pushed to GitHub.  
