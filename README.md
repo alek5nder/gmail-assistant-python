@@ -77,9 +77,7 @@ This displays a bar chart of how many emails were assigned to each category duri
 - 🖱️ **Interactive mode**: After AI suggests a label, you can approve or change it, enabling a feedback loop to improve labeling accuracy over time.
 
 </details>
-
-<details>
-   <details>
+ <details>
    <summary>🧩 Final Effects:</summary>
    I encourage you to discover more about my assistant by reading other sections or even running it by yourself! Instructon is also given above.
    <img width="1166" height="134" alt="image" src="https://github.com/user-attachments/assets/feac88e0-8d46-46c4-90b0-4462059a4015" />
@@ -88,6 +86,8 @@ This displays a bar chart of how many emails were assigned to each category duri
    <img width="922" height="555" alt="image" src="https://github.com/user-attachments/assets/396c9bf6-4b60-4df0-8169-1893efcc1563" />
 
 </details>
+<details>
+  
 <summary>🔐 Security & Good Practices</summary>
 
 - Your `credentials.json`, OAuth `token.json`, `feedback.csv`, and `.env` files **must never** be publicly shared or pushed to GitHub.  
