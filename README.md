@@ -1,11 +1,10 @@
 # 📧 Gmail Assistant – Intelligent Email Labeling Assistant
 
-<details>
-<summary>❗ Problem Statement</summary>
+## Problem Statement
 
 Managing a large volume of emails in Gmail can quickly become overwhelming. Promotional messages, notifications, offers, spam, and invoices all mix together, making it difficult to respond efficiently. Manually sorting and labeling emails is tedious, error-prone, and time-consuming. Many users underutilize Gmail’s powerful labeling system simply due to the lack of an effective, intelligent tool for automatic email categorization based on actual content.
 
-</details>
+
 
 <details>
 <summary>🚀 Application</summary>
