@@ -78,7 +78,7 @@ This displays a bar chart of how many emails were assigned to each category duri
 
 </details>
  <details>
-   <summary>🧩 Final Effects:</summary>
+   <summary>🧩 Final Effects</summary>
    I encourage you to discover more about my assistant by reading other sections or even running it by yourself! Instructon is also given above.
    <img width="1166" height="134" alt="image" src="https://github.com/user-attachments/assets/feac88e0-8d46-46c4-90b0-4462059a4015" />
    <img width="1619" height="660" alt="image" src="https://github.com/user-attachments/assets/b8c0dd2e-2c81-4923-927e-81f529c619af" />
